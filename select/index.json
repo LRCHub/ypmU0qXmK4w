@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "カントリー・ロード",
+  "base_artist": "松下洸平",
+  "createdAt": "2026-03-25T14:16:45.398416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "井上あずみ",
+      "has_synced": true,
+      "path": "select/01_カントリー・ロード_井上あずみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カントリー・ロード(TAKE ME HOME,COUNTRY ROADS)",
+      "artist": "野見祐二",
+      "has_synced": true,
+      "path": "select/02_カントリー・ロード(TAKE_ME_HOME,COUNTRY_ROADS)_野見祐二.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "Azumi Inoue",
+      "has_synced": true,
+      "path": "select/03_カントリー・ロード_Azumi_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/04_カントリー・ロード_本名陽子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カントリー・ロード(耳をすませば)",
+      "artist": "Kyoto Piano Ensemble",
+      "has_synced": false,
+      "path": "select/05_カントリー・ロード(耳をすませば)_Kyoto_Piano_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "Meja",
+      "has_synced": true,
+      "path": "select/06_カントリー・ロード_Meja.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カントリー・ロード(耳をすませば)",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/07_カントリー・ロード(耳をすませば)_本名陽子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "野見祐二",
+      "has_synced": true,
+      "path": "select/08_カントリー・ロード_野見祐二.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/09_カントリー・ロード_本名陽子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "Eri Takenaka",
+      "has_synced": true,
+      "path": "select/10_カントリー・ロード_Eri_Takenaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カントリー・ロード (ヴァイオリン・ヴァージョン)",
+      "artist": "野見祐二",
+      "has_synced": true,
+      "path": "select/11_カントリー・ロード_(ヴァイオリン・ヴァージョン)_野見祐二.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カントリー・ロード (主題歌)",
+      "artist": "野見祐二",
+      "has_synced": true,
+      "path": "select/12_カントリー・ロード_(主題歌)_野見祐二.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "カントリー・ロード",
+      "artist": "ツヅリ・ヅクリ",
+      "has_synced": true,
+      "path": "select/13_カントリー・ロード_ツヅリ・ヅクリ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "カントリー・ロード（主題歌）",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/14_カントリー・ロード(主題歌)_本名陽子.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "カントリー・ロード [ヴァイオリン・バージョン]",
+      "artist": "野見祐二",
+      "has_synced": true,
+      "path": "select/15_カントリー・ロード_[ヴァイオリン・バージョン]_野見祐二.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "カントリー・ロード [ヴァイオリン・バージョン]",
+      "artist": "サウンドトラック",
+      "has_synced": true,
+      "path": "select/16_カントリー・ロード_[ヴァイオリン・バージョン]_サウンドトラック.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "カントリー?ロード(耳をすませば)",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/17_カントリー_ロード(耳をすませば)_本名陽子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カントリー・ロード",
+      "artist": "松下洸平",
+      "has_synced": false,
+      "path": "select/pl_01_カントリー・ロード_松下洸平.txt"
+    }
+  ]
+}
